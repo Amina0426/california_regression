@@ -6,7 +6,7 @@ A machine learning regression project that predicts the median house value of a 
 
 ## 🚀 Live Demo
 
-👉 **[Launch the Application](https://california-regression-amina.streamlit.app)**
+👉 **[Launch the Application](https://california-house-price-amina.streamlit.app)**
 
 ---
 
