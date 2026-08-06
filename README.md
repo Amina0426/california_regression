@@ -2,7 +2,7 @@
 
 A machine learning regression project that predicts the median house value of a district in California using the California Housing dataset. The project covers the complete machine learning workflow, including data preprocessing, feature engineering, model training, hyperparameter tuning, model serialization, and deployment with Streamlit.
 
----
+## [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://california-house-price-amina.streamlit.app/)
 
 ## Project Overview
 
