@@ -248,4 +248,4 @@ Possible future enhancements include:
 
 **Amina**
 
-Machine Learning | Data Analytics | Python
+Machine Learning | Data Structures and Algorithms | Python | Web Development
