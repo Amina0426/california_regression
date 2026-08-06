@@ -178,13 +178,13 @@ The application allows users to:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Amina0426/california_regression.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd <project-folder>
+cd california_regression
 ```
 
 ### 3. Install dependencies
