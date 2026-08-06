@@ -206,12 +206,12 @@ The application will open automatically in your web browser.
 ## Project Structure
 
 ```
-├── app.py
-├── model.pkl
+├── data/
+├── models/
 ├── requirements.txt
-├── California_Housing.ipynb
+├── notebooks/
 ├── README.md
-└── dataset/
+└── apps.py
 ```
 
 ---
